@@ -54,7 +54,7 @@ Expected results:
 - Go to [colab.research.google.com](https://colab.research.google.com)
 - **File → Open notebook → GitHub**
 - ✅ Tick **Include private repos**
-- Search: `manidharc7/isi-2026-group1-property-valuation`
+- Search: `manidharc7/ISI-2026-Group1-Property-Valuation`
 - Open `ISI_Project_Property_Valuation.ipynb`
 
 ### 2. Upload the dataset
